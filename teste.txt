@@ -1,1 +1,7 @@
+<<<<<<< teste3
 teste para cherry-pick em um commit - teste
+=======
+teste para cherry-pick em um commit
+
+commit 1
+>>>>>>> staging
